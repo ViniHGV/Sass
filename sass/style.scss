@@ -1,11 +1,13 @@
+//Declarando Variaveis
 $btn-color: #ff4043;
+$width-btn: 95px;
 
 .btn1{
-    width: 70px ;
+    width: $width-btn ;
     background-color: $btn-color;
 }
 
 .btn2{
-    width: 60px;
+    width: $width-btn;
     background-color: $btn-color;
 }

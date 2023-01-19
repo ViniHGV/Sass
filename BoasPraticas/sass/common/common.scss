@@ -1,0 +1,28 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+#title-home{
+    padding: 10px;
+    text-align: center;
+    font-size: 44px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btn{
+    margin: auto;
+    width: 105px;
+    cursor: pointer;
+    padding: 10px;
+    background-color: $btn-background;
+    color: #fff;
+    display: block;
+    margin-top: 10px;
+}
+.container{
+    width: 350px;
+    border:  solid 1px black;
+    margin: auto;
+}
+p{
+    padding: 10px;
+}
